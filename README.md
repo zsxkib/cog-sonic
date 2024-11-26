@@ -6,6 +6,10 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
 <a href='https://arxiv.org/pdf/2411.16331'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 
+## Open-source Plan
+We are actively passing the internal open source review and will upload the code and weights after the review is completed.
+
+
  
 ## Citation
 ```
