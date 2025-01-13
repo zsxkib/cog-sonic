@@ -9,10 +9,29 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
 <a href='https://arxiv.org/pdf/2411.16331'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 ## Updates
+**`2025/01/14`**: Our inference code and weights are release. Stay tuned, we will continue to polish the model.
+
 **`2024/12/16`**: Our [**Online Demo**](http://demo.sonic.jixiaozhong.online/) is released.
 
-## Open-source Plan
-We are actively passing the internal open source review and will upload the code and weights after the review is completed.
+## Inference
+
+### Installtion
+
+- install pytorch
+```shell
+  pip3 install -r requirements.txt
+```
+- Download [pretrain model](https://drive.google.com/drive/folders/1oe8VTPUy0-MHHW2a_NJ1F8xL-0VN5G7W?usp=drive_link), [svd-xt-1-1](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1) and [whisper-tiny](https://huggingface.co/openai/whisper-tiny) to checkpoints/ 
+
+
+### Run demo
+```shell
+  python3 demo.py \
+  '/path/to/input_image' \
+  '/path/to/input_audio' \
+  '/path/to/output_video'
+```
+
 
 
  
