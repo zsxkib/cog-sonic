@@ -9,7 +9,7 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
 <a href='https://arxiv.org/pdf/2411.16331'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 ## Updates
-**`2025/01/14`**: Our inference code and weights are release. Stay tuned, we will continue to polish the model.
+**`2025/01/14`**: Our inference code and weights are released. Stay tuned, we will continue to polish the model.
 
 **`2024/12/16`**: Our [**Online Demo**](http://demo.sonic.jixiaozhong.online/) is released.
 
