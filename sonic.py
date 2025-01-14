@@ -236,7 +236,6 @@ class Sonic():
         face_num = len(bboxes)
         bbox = []
         if face_num > 0:
-            bbox = bboxes[0]
             x1, y1, ww, hh = bboxes[0]
             x2, y2 = x1 + ww, y1 + hh
             bbox = x1, y1, x2, y2
@@ -263,6 +262,7 @@ class Sonic():
                 min_resolution=512,
                 inference_steps=25,
                 dynamic_scale=1.0,
+                keep_resolution=False,
                 seed=None):
         
         config = self.config
@@ -293,7 +293,10 @@ class Sonic():
         if test_data is None:
             return -1
         height, width = test_data['ref_img'].shape[-2:]
-        resolution = f'{raw_w//2*2}x{raw_h//2*2}'
+        if keep_resolution:
+            resolution = f'{raw_w//2*2}x{raw_h//2*2}'
+        else:
+            resolution = f'{width}x{height}'
 
         video = test(
             pipe,
