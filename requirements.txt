@@ -8,3 +8,5 @@ imageio-ffmpeg==0.5.1
 gradio==3.50.0
 omegaconf==2.3.0
 tqdm==4.65.2
+librosa==0.10.2.post1
+einops==0.7.0

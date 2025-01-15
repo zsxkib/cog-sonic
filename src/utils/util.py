@@ -5,7 +5,6 @@ import shutil
 import sys
 from pathlib import Path
 
-import av
 import numpy as np
 import torch
 import torchvision
