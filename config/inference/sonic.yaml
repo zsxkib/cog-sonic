@@ -1,4 +1,4 @@
-pretrained_model_name_or_path: "checkpoints/stable-video-diffusion-img2vid-xt-1-1"
+pretrained_model_name_or_path: "checkpoints/stable-video-diffusion-img2vid-xt"
 unet_checkpoint_path: "checkpoints/Sonic/unet.pth"
 audio2token_checkpoint_path: "checkpoints/Sonic/audio2token.pth"
 audio2bucket_checkpoint_path: "checkpoints/Sonic/audio2bucket.pth"

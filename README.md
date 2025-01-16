@@ -21,7 +21,32 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
 ```shell
   pip3 install -r requirements.txt
 ```
-- Download [pretrain model](https://drive.google.com/drive/folders/1oe8VTPUy0-MHHW2a_NJ1F8xL-0VN5G7W?usp=drive_link), [svd-xt-1-1](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1) and [whisper-tiny](https://huggingface.co/openai/whisper-tiny) to checkpoints/ 
+- All models are stored in `checkpoints` by default, and the file structure is as follows
+```shell
+Sonic
+  ├──checkpoints
+  │  ├──Sonic
+  │  │  ├──audio2bucket.pth
+  │  │  ├──audio2token.pth
+  │  │  ├──unet.pth
+  │  ├──stable-video-diffusion-img2vid-xt
+  │  │  ├──...
+  │  ├──whisper-tiny
+  │  │  ├──...
+  │  ├──RIFE
+  │  │  ├──flownet.pkl
+  │  ├──yoloface_v5m.pt
+  ├──...
+```
+Download by `huggingface-cli` follow
+```shell
+  python3 -m pip install "huggingface_hub[cli]"
+  huggingface-cli download LeonJoe13/Sonic --local-dir  checkpoints
+  huggingface-cli download stabilityai/stable-video-diffusion-img2vid-xt --local-dir  checkpoints/stable-video-diffusion-img2vid-xt
+  huggingface-cli download openai/whisper-tiny --local-dir checkpoints/whisper-tiny
+```
+
+or manully download [pretrain model](https://drive.google.com/drive/folders/1oe8VTPUy0-MHHW2a_NJ1F8xL-0VN5G7W?usp=drive_link), [svd-xt-1-1](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt) and [whisper-tiny](https://huggingface.co/openai/whisper-tiny) to checkpoints/ 
 
 
 ### Run demo
