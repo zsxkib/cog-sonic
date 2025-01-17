@@ -13,6 +13,8 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
 
 
 ## Updates
+**`2025/01/17`**: Our [**Online huggingface Demo**](https://huggingface.co/spaces/xiaozhongji/Sonic/) is released.
+
 **`2025/01/14`**: Our inference code and weights are released. Stay tuned, we will continue to polish the model.
 
 **`2024/12/16`**: Our [**Online Demo**](http://demo.sonic.jixiaozhong.online/) is released.
