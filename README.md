@@ -19,6 +19,9 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
 
 **`2024/12/16`**: Our [**Online Demo**](http://demo.sonic.jixiaozhong.online/) is released.
 
+## NEWS
+**`2025/01/17`**: Thank you to NewGenAI for promoting our Sonic and creating a Windows-based tutorial on [**YouTube**](https://www.youtube.com/watch?v=KiDDtcvQyS0) .
+
 ## Inference
 
 ### Installtion
