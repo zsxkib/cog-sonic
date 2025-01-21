@@ -22,8 +22,9 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
 ## 🎥 Demo
 | Input                | Output                | Input                | Output                |
 |----------------------|-----------------------|----------------------|-----------------------|
-|<img src="examples/image/anime1.png" width="360">|<video src="assets/video/anime1.mp4" width="360"> </video>|<img src="examples/image/female_diaosu.png" width="360">|<video src="assets/video/female_diaosu.mp4" width="360"> </video>|
-|<img src="examples/image/hair.png" width="360">|<video src="assets/video/hair.mp4" width="360"> </video>|<img src="examples/image/leonnado.jpg" width="360">|<video src="assets/video/leonnado.mp4" width="360"> </video>|
+|<img src="examples/image/anime1.png" width="360">|<video src="https://github.com/user-attachments/assets/636c3ff5-210e-44b8-b901-acf828071133" width="360"> </video>|<img src="examples/image/female_diaosu.png" width="360">|<video src="https://github.com/user-attachments/assets/e8207300-2569-47d1-9ad4-4b4c9b0f0bd4" width="360"> </video>|
+|<img src="examples/image/hair.png" width="360">|<video src="https://github.com/user-attachments/assets/dcb755c1-de01-4afe-8b4f-0e0b2c2439c1" width="360"> </video>|<img src="examples/image/leonnado.jpg" width="360">|<video src="https://github.com/user-attachments/assets/b50e61bb-62d4-469d-b402-b37cda3fbd27" width="360"> </video>|
+
 
 For more visual demos, please visit our [**Page**](https://jixiaozhong.github.io/Sonic/).
 
