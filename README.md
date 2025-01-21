@@ -10,6 +10,9 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
   <a href="https://huggingface.co/spaces/xiaozhongji/Sonic" style="margin: 0 2px;">
     <img src='https://img.shields.io/badge/Space-ZeroGPU-orange?style=flat&logo=Gradio&logoColor=red' alt='Demo'>
     </a>
+  <a href="https://raw.githubusercontent.com/jixiaozhong/Sonic/refs/heads/main/LICENSE" style="margin: 0 2px;">
+    <img src='https://img.shields.io/badge/License-CC BY--NC--SA--4.0-lightgreen?style=flat&logo=Lisence' alt='License'>
+  </a>
 
 ## 🔥🔥🔥 NEWS
 **`2025/01/17`**: Our [**Online huggingface Demo**](https://huggingface.co/spaces/xiaozhongji/Sonic/) is released.
