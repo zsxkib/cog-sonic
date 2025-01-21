@@ -22,8 +22,8 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
 ## 🎥 Demo
 | Input                | Output                | Input                | Output                |
 |----------------------|-----------------------|----------------------|-----------------------|
-|<img src="examples/image/anime1.png" width="360">|<video src="assets/video/anime1.mp4" width="360" />|<img src="examples/image/female_diaosu.png" width="360">|<video src="assets/video/female_diaosu.mp4" width="360" />|
-|<img src="examples/image/hair.png" width="360">|<video src="assets/video/hair.mp4" width="360" />|<img src="examples/image/leonnado.jpg" width="360">|<video src="assets/video/leonnado.mp4" width="360" />|
+|<img src="examples/image/anime1.png" width="360">|<video src="assets/video/anime1.mp4" width="360"> </video>|<img src="examples/image/female_diaosu.png" width="360">|<video src="assets/video/female_diaosu.mp4" width="360"> </video>|
+|<img src="examples/image/hair.png" width="360">|<video src="assets/video/hair.mp4" width="360"> </video>|<img src="examples/image/leonnado.jpg" width="360">|<video src="assets/video/leonnado.mp4" width="360"> </video>|
 
 For more visual demos, please visit our [**Page**](https://jixiaozhong.github.io/Sonic/).
 
