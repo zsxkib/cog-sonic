@@ -11,19 +11,29 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
     <img src='https://img.shields.io/badge/Space-ZeroGPU-orange?style=flat&logo=Gradio&logoColor=red' alt='Demo'>
     </a>
 
-
-## 📑 Updates
+## 🔥🔥🔥 NEWS
 **`2025/01/17`**: Our [**Online huggingface Demo**](https://huggingface.co/spaces/xiaozhongji/Sonic/) is released.
 
-**`2025/01/14`**: Our inference code and weights are released. Stay tuned, we will continue to polish the model.
+**`2025/01/17`**: Thank you to NewGenAI for promoting our Sonic and creating a Windows-based tutorial on [**YouTube**](https://www.youtube.com/watch?v=KiDDtcvQyS0).
 
 **`2024/12/16`**: Our [**Online Demo**](http://demo.sonic.jixiaozhong.online/) is released.
+
+
+## 🎥 Demo
+| Input                | Output                | Input                | Output                |
+|----------------------|-----------------------|----------------------|-----------------------|
+|<img src="examples/image/anime1.png" width="360">|<video src="assets/video/anime1.mp4" width="360">|<img src="examples/image/female_diaosu.png" width="360">|<video src="assets/video/female_diaosu.mp4" width="360">|
+|<img src="examples/image/hair.png" width="360">|<video src="assets/video/hair.mp4" width="360">|<img src="examples/image/leonnado.jpg" width="360">|<video src="assets/video/leonnado.mp4" width="360">|
+
+For more visual demos, please visit our [**Page**](https://jixiaozhong.github.io/Sonic/).
 
 ## 🧩 Community Contributions
 If you develop/use Sonic in your projects, welcome to let us know.
 
-## 🔥🔥🔥 NEWS
-**`2025/01/17`**: Thank you to NewGenAI for promoting our Sonic and creating a Windows-based tutorial on [**YouTube**](https://www.youtube.com/watch?v=KiDDtcvQyS0) .
+
+## 📑 Updates
+**`2025/01/14`**: Our inference code and weights are released. Stay tuned, we will continue to polish the model.
+
 
 ## 📜 Requirements
 * An NVIDIA GPU with CUDA support is required. 
@@ -63,7 +73,7 @@ Download by `huggingface-cli` follow
   huggingface-cli download openai/whisper-tiny --local-dir checkpoints/whisper-tiny
 ```
 
-or manully download [pretrain model](https://drive.google.com/drive/folders/1oe8VTPUy0-MHHW2a_NJ1F8xL-0VN5G7W?usp=drive_link), [svd-xt-1-1](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt) and [whisper-tiny](https://huggingface.co/openai/whisper-tiny) to checkpoints/ 
+or manully download [pretrain model](https://drive.google.com/drive/folders/1oe8VTPUy0-MHHW2a_NJ1F8xL-0VN5G7W?usp=drive_link), [svd-xt](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt) and [whisper-tiny](https://huggingface.co/openai/whisper-tiny) to checkpoints/ 
 
 
 ### Run demo
