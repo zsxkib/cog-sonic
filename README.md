@@ -12,17 +12,25 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
     </a>
 
 
-## Updates
+## 📑 Updates
 **`2025/01/17`**: Our [**Online huggingface Demo**](https://huggingface.co/spaces/xiaozhongji/Sonic/) is released.
 
 **`2025/01/14`**: Our inference code and weights are released. Stay tuned, we will continue to polish the model.
 
 **`2024/12/16`**: Our [**Online Demo**](http://demo.sonic.jixiaozhong.online/) is released.
 
-## NEWS
+## 🧩 Community Contributions
+If you develop/use Sonic in your projects, welcome to let us know.
+
+## 🔥🔥🔥 NEWS
 **`2025/01/17`**: Thank you to NewGenAI for promoting our Sonic and creating a Windows-based tutorial on [**YouTube**](https://www.youtube.com/watch?v=KiDDtcvQyS0) .
 
-## Inference
+## 📜 Requirements
+* An NVIDIA GPU with CUDA support is required. 
+  * The model is tested on a single 32G GPU.
+* Tested operating system: Linux
+
+## 🔑 Inference
 
 ### Installtion
 
@@ -69,7 +77,7 @@ or manully download [pretrain model](https://drive.google.com/drive/folders/1oe8
 
 
  
-## Citation
+## 🔗 Citation
 ```
 @misc{ji2024sonicshiftingfocusglobal,
       title={Sonic: Shifting Focus to Global Audio Perception in Portrait Animation}, 
@@ -82,6 +90,6 @@ or manully download [pretrain model](https://drive.google.com/drive/folders/1oe8
 }
 ```
 
-## Star History
+## 📈 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=jixiaozhong/Sonic&type=Date)](https://star-history.com/#jixiaozhong/Sonic&Date)
