@@ -131,7 +131,6 @@ dmypy.json
 
 .idea
 .vscode
-*.mp4
 res_path/
 tmp_path/
 flagged/
