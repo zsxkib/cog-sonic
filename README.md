@@ -15,7 +15,7 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
   </a>
 
 <p align="center">
-    👋 Join our <a href="examples/image/QQ.png" target="_blank">QQ</a> 
+    👋 Join our <a href="examples/image/QQ.png" target="_blank">QQ Chat Group</a> 
 </p>
 <p align="center">
 
