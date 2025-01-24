@@ -14,6 +14,12 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
     <img src='https://img.shields.io/badge/License-CC BY--NC--SA--4.0-lightgreen?style=flat&logo=Lisence' alt='License'>
   </a>
 
+<p align="center">
+    👋 Join our <a href="assets/WECHAT.md" target="_blank">WeChat</a> and <a href="https://discord.gg/tv7FkG4Nwf" target="_blank">Discord</a> 
+</p>
+<p align="center">
+
+
 ## 🔥🔥🔥 NEWS
 **`2025/01/17`**: Our [**Online huggingface Demo**](https://huggingface.co/spaces/xiaozhongji/Sonic/) is released.
 
