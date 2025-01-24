@@ -325,6 +325,9 @@ class Sonic():
             video = torch.stack(results, 2).cpu()
         
         save_videos_grid(video, video_path, n_rows=video.shape[0], fps=config.fps * 2 if config.use_interframe else config.fps)
-        os.system(f"ffmpeg -i '{video_path}'  -i '{audio_path}' -s {resolution} -vcodec libx264 -acodec aac -crf 18 -shortest '{audio_video_path}' -y; rm '{video_path}'")
+        ffmpeg_command = f'ffmpeg -i "{video_path}" -i "{audio_path}" -s {resolution} -vcodec libx264 -acodec aac -crf 18 -shortest -y "{audio_video_path}"'
+        os.system(ffmpeg_command)
+        os.remove(video_path)  # Use os.remove instead of rm for Windows compatibility
+        
         return 0
         
