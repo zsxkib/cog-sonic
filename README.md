@@ -21,7 +21,7 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
 
 
 ## 🔥🔥🔥 NEWS
-**`2025/02/06`**: Commercialization: Note that ours license is **non-commercial**. If commercialization is required, please use Tencent Cloud Video Creation Large Model: [**Introduction**](https://cloud.tencent.com/product/vclm) / [**API documentation**](https://cloud.tencent.com/document/api/1616/109378)
+**`2025/02/06`**: Commercialization: Note that our license is **non-commercial**. If commercialization is required, please use Tencent Cloud Video Creation Large Model: [**Introduction**](https://cloud.tencent.com/product/vclm) / [**API documentation**](https://cloud.tencent.com/document/api/1616/109378)
 
 **`2025/01/17`**: Our [**Online huggingface Demo**](https://huggingface.co/spaces/xiaozhongji/Sonic/) is released.
 
