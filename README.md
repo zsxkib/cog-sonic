@@ -22,7 +22,7 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
 
 ## 🔥🔥🔥 NEWS
 
-- **`2025/2/08`**: Thanks for providing the [ComfyUI version of Sonic](https://github.com/smthemex/ComfyUI_Sonic), you can use Sonic in ComfyUI now.
+**`2025/2/08`**: Thanks for providing the [ComfyUI version of Sonic](https://github.com/smthemex/ComfyUI_Sonic), you can use Sonic in ComfyUI now.
 
 **`2025/02/06`**: Commercialization: Note that our license is **non-commercial**. If commercialization is required, please use Tencent Cloud Video Creation Large Model: [**Introduction**](https://cloud.tencent.com/product/vclm) / [**API documentation**](https://cloud.tencent.com/document/api/1616/109378)
 
