@@ -119,7 +119,7 @@ or manully download [pretrain model](https://drive.google.com/drive/folders/1oe8
 ## 📜 Related Works
 
 Explore our related researches:
--  **[Super-fast talk]** [Realtalk: Real-time and realistic audio-driven face generation with 3d facial prior-guided identity alignment network](https://arxiv.org/pdf/2411.15296)
+-  **[Super-fast talk]** [Realtalk: Real-time and realistic audio-driven face generation with 3d facial prior-guided identity alignment network](https://arxiv.org/pdf/2406.18284)
 
 ## 📈 Star History
 
