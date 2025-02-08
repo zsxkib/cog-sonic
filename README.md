@@ -100,6 +100,9 @@ or manully download [pretrain model](https://drive.google.com/drive/folders/1oe8
 
  
 ## 🔗 Citation
+
+If you find our work helpful for your research, please consider citing our work.   
+
 ```bibtex
 @article{ji2024sonic,
   title={Sonic: Shifting Focus to Global Audio Perception in Portrait Animation},
@@ -119,7 +122,7 @@ or manully download [pretrain model](https://drive.google.com/drive/folders/1oe8
 ## 📜 Related Works
 
 Explore our related researches:
--  **[Super-fast talk]** [Realtalk: Real-time and realistic audio-driven face generation with 3d facial prior-guided identity alignment network](https://arxiv.org/pdf/2406.18284)
+-  **[Super-fast talk：real-time and less GPU computation]** [Realtalk: Real-time and realistic audio-driven face generation with 3d facial prior-guided identity alignment network](https://arxiv.org/pdf/2406.18284)
 
 ## 📈 Star History
 
