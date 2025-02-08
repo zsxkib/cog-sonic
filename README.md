@@ -100,17 +100,26 @@ or manully download [pretrain model](https://drive.google.com/drive/folders/1oe8
 
  
 ## 🔗 Citation
-```
-@misc{ji2024sonicshiftingfocusglobal,
-      title={Sonic: Shifting Focus to Global Audio Perception in Portrait Animation}, 
-      author={Xiaozhong Ji and Xiaobin Hu and Zhihong Xu and Junwei Zhu and Chuming Lin and Qingdong He and Jiangning Zhang and Donghao Luo and Yi Chen and Qin Lin and Qinglin Lu and Chengjie Wang},
-      year={2024},
-      eprint={2411.16331},
-      archivePrefix={arXiv},
-      primaryClass={cs.MM},
-      url={https://arxiv.org/abs/2411.16331}, 
+```bibtex
+@article{ji2024sonic,
+  title={Sonic: Shifting Focus to Global Audio Perception in Portrait Animation},
+  author={Ji, Xiaozhong and Hu, Xiaobin and Xu, Zhihong and Zhu, Junwei and Lin, Chuming and He, Qingdong and Zhang, Jiangning and Luo, Donghao and Chen, Yi and Lin, Qin and others},
+  journal={arXiv preprint arXiv:2411.16331},
+  year={2024}
+}
+
+@article{ji2024realtalk,
+  title={Realtalk: Real-time and realistic audio-driven face generation with 3d facial prior-guided identity alignment network},
+  author={Ji, Xiaozhong and Lin, Chuming and Ding, Zhonggan and Tai, Ying and Zhu, Junwei and Hu, Xiaobin and Luo, Donghao and Ge, Yanhao and Wang, Chengjie},
+  journal={arXiv preprint arXiv:2406.18284},
+  year={2024}
 }
 ```
+
+## 📜 Related Works
+
+Explore our related researches:
+-  **[Super-fast talk]** [Realtalk: Real-time and realistic audio-driven face generation with 3d facial prior-guided identity alignment network](https://arxiv.org/pdf/2411.15296)
 
 ## 📈 Star History
 
