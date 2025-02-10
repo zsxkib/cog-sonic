@@ -45,7 +45,7 @@ For more visual demos, please visit our [**Page**](https://jixiaozhong.github.io
 ## 🧩 Community Contributions
 If you develop/use Sonic in your projects, welcome to let us know.
 
-ComfyUI version of Sonic: [**ComfyUI_Sonic**](https://github.com/smthemex/ComfyUI_Sonic)
+- ComfyUI version of Sonic: [**ComfyUI_Sonic**](https://github.com/smthemex/ComfyUI_Sonic)
 
 
 ## 📑 Updates
