@@ -1,5 +1,5 @@
 # Sonic
-Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
+Sonic: Shifting Focus to Global Audio Perception in Portrait Animation, CVPR 2025.
 
 
 <a href='https://jixiaozhong.github.io/Sonic/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
@@ -21,6 +21,8 @@ Sonic: Shifting Focus to Global Audio Perception in Portrait Animation
 
 
 ## 🔥🔥🔥 NEWS
+
+**`2025/03/14`**: Super stoked to share that our Sonic is accpted by the CVPR 2025! See you Nashville!!
 
 **`2025/02/08`**: Many thanks to the open-source community contributors for making the ComfyUI version of Sonic a reality. Your efforts are truly appreciated! [**ComfyUI version of Sonic**](https://github.com/smthemex/ComfyUI_Sonic)
 
