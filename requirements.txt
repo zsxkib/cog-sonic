@@ -1,0 +1,12 @@
+diffusers==0.29.0
+torch==2.2.1
+torchaudio==2.2.1
+torchvision==0.17.1
+transformers==4.43.2
+imageio==2.31.1
+imageio-ffmpeg==0.5.1
+gradio==3.50.0
+omegaconf==2.3.0
+tqdm==4.65.2
+librosa==0.10.2.post1
+einops==0.7.0
